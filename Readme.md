@@ -1,6 +1,6 @@
 Part 2 Recipe Ingredient Recipe ST10332172 MENDES SITHOLE
 
-https://github.com/Mendessithole/Recipe-Ingredient-Recipe-ST10332172-MENDES-SITHOLE
+https://github.com/Mendessithole/PART-2-Recipe-Ingredient-Recipe-ST10332172-MENDES-SITHOLE
 
 **UPDATES OR CHANGES MADE**
 Event Handling: Part 2 introduces event handling for warning users about recipes exceeding a certain calorie threshold. This feature is not present in Part 1.
